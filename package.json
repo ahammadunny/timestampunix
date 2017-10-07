@@ -1,0 +1,17 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": " my-folder/server2.js",
+	"scripts": {
+		"start": "node my-folder/server2.js"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://glitch.com/ahammadunny/timestampunix/tree/glitch/my-folder"
+	}
+}
